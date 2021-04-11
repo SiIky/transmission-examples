@@ -1,2 +1,1 @@
-# transmission-examples
-(Hopefully) useful programs built with [transmission.scm](https://github.com/siiky/transmission.scm)
+Moved to https://github.com/siiky/trmote
